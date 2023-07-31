@@ -194,13 +194,15 @@ a{ text-decoration: none; color: #fff;}
     padding: 12px 20px;
     margin-top: 20px;
     color:#fff;
-    background-color: #DCDCDC;
+    background-color: #882DE3;
     border:none;
     border-radius: 8px;
     transition: background-color 0.3s ease-in-out;
 }
 .main-menu-start-btn:hover{
-    background-color:#882DE3;
+    background-color:#F4E9FF ;
+    color:#882DE3;
+    border: 1px solid #882DE3;
 }
 
 /* main page 끝 */
